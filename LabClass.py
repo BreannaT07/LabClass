@@ -37,4 +37,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-#_#
+# I was in a group with Antonio and we were able to discuss and understand how the code functions. We talk about our understandings on how the code, from 1 to 14, was able to define what the fractions were and how it set them up. 
+# It was understandable until we had reached line 16 in our code, as it was confusing to read what that part of the code's function was and how it was supposed to be used in the code. 
